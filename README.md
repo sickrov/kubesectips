@@ -27,10 +27,10 @@ Security tips for Kubernetes
 - Cloud controller manager: Is the specific controller for flow controls and applications, i.e: if you have clusters in aws or openstack.
 
 ### How pods communicate with each other.
-[![https://i.postimg.cc/13wJV8G6/Screenshot-67.jpg](https://i.postimg.cc/13wJV8G6/Screenshot-67.jpg)
+![https://i.postimg.cc/13wJV8G6/Screenshot-67.jpg](https://i.postimg.cc/13wJV8G6/Screenshot-67.jpg)
 
 ### PKI infrastructure - Certificate Authority CA:
-[![https://i.postimg.cc/rp9jg7Yw/Screenshot-66.jpg](https://i.postimg.cc/rp9jg7Yw/Screenshot-66.jpg)
+![https://i.postimg.cc/rp9jg7Yw/Screenshot-66.jpg](https://i.postimg.cc/rp9jg7Yw/Screenshot-66.jpg)
 - CA is the trusted root for all certificates inside the cluster
 - Allows components to validate to each other.
 - All cluster certificates are signed by the CA
