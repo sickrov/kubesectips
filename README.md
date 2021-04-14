@@ -1,8 +1,8 @@
 # kubesectips
 Security tips for Kubernetes
-Part 1 - Architecture
-Part 2 - Vulnerabilities
-Parte 3 - Hardening
+- Part 1 - Architecture
+- Part 2 - Vulnerabilities
+- Part 3 - Hardening
 
 
 ## PART 1 - ARCHITECTURE
